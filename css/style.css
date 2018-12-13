@@ -1,0 +1,31 @@
+#parallax-container {
+    height: 550px;
+}
+
+.parallax-container {
+    height: 380px;
+}
+
+h2{
+	font-size: 35px;
+	color: #01579b;
+}
+
+#limpa_margem{
+	margin: 0;
+}
+
+#margem_login{
+	margin: 0;
+	padding-top: 5px;
+	padding-bottom: 5px
+}
+.coloca_padding{
+	padding-bottom: 55px;
+	padding-top: 68px;
+}
+
+#teste{
+	/*width: 100vw;*/
+	/*height: 100vh;*/
+}
